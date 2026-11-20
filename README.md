@@ -4,7 +4,7 @@ Control de versiones
 
 Proyecto académico para practicar el uso de Git y GitHub.
 Integrantes: 
-Factos Camba Dalo Jesús 
+Castro Camba Dalo Jesús 
 Calderón Vera Danna Romina 
 Vallejo Quintero Danna Valeria  
 
