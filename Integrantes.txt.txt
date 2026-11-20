@@ -2,3 +2,4 @@ Integrante 1: Castro Camba Dalo Jesús
 Intgrantes 2: Calderón Vera Danna Romina 
 Integrante 3: Vallejo Quintero Danna Valeria 
 Paralelo: B1
+Descripción: Este archivo contiene la lista de los integrantes, paralelo y la información general del equipo para el trabajo de GitHub
